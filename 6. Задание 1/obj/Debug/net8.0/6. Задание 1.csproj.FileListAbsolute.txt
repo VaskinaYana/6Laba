@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\Яна\ЯП\6. Задание 1\obj\Debug\net8.0\6. Задание 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Яна\ЯП\6. Задание 1\obj\Debug\net8.0\6. Задание 1.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Яна\ЯП\6. Задание 1\obj\Debug\net8.0\6. Задание 1.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Яна\ЯП\6. Задание 1\obj\Debug\net8.0\6. Задание 1.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Яна\ЯП\6. Задание 1\bin\Debug\net8.0\6. Задание 1.exe
+C:\Users\MSI\Desktop\Яна\ЯП\6. Задание 1\bin\Debug\net8.0\6. Задание 1.deps.json
+C:\Users\MSI\Desktop\Яна\ЯП\6. Задание 1\bin\Debug\net8.0\6. Задание 1.runtimeconfig.json
+C:\Users\MSI\Desktop\Яна\ЯП\6. Задание 1\bin\Debug\net8.0\6. Задание 1.dll
+C:\Users\MSI\Desktop\Яна\ЯП\6. Задание 1\bin\Debug\net8.0\6. Задание 1.pdb
+C:\Users\MSI\Desktop\Яна\ЯП\6. Задание 1\obj\Debug\net8.0\6. Задание 1.dll
+C:\Users\MSI\Desktop\Яна\ЯП\6. Задание 1\obj\Debug\net8.0\refint\6. Задание 1.dll
+C:\Users\MSI\Desktop\Яна\ЯП\6. Задание 1\obj\Debug\net8.0\6. Задание 1.pdb
+C:\Users\MSI\Desktop\Яна\ЯП\6. Задание 1\obj\Debug\net8.0\6. Задание 1.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Яна\ЯП\6. Задание 1\obj\Debug\net8.0\ref\6. Задание 1.dll
