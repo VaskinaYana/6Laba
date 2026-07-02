@@ -59,4 +59,5 @@
 14. Тестируется бинарная операция Money - Money: обе суммы переводятся в копейки, выполняется вычитание, если вторая сумма больше или равна первой - возвращается 0.
 
 ### Тестирование
-<img width="641" height="443" alt="image" src="https://github.com/user-attachments/assets/53f3722f-0100-49f7-ab81-61450cab8de8" />
+<img width="520" height="540" alt="image" src="https://github.com/user-attachments/assets/e3eeddd2-6e6d-4d53-a835-60ea72ece954" />
+
